@@ -1,0 +1,1 @@
+[05-Aug-2015 09:42:07 America/Caracas] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fund0913/public_html/cursodhtml1/listado13-6.php:1) in /home/fund0913/public_html/cursodhtml1/listado13-6.php on line 2

@@ -1,10 +1,9 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="es">
 <head>
 <title>Ajax Level 2</title>
-    <meta charset="utf-8">
 <link rel="stylesheet" href="listado13-2.css">
-<script charset="UTF-8" src="listado13-5.js"></script>
+<script src="listado13-5.js"></script>
 </head>
 <body>
 <section id="cajaformulario">

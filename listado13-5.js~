@@ -1,4 +1,4 @@
-function iniciar()
+﻿function iniciar()
 {
 cajadatos=document.getElementById('cajadatos');
 var boton=document.getElementById('boton');
